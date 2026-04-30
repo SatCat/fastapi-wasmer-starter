@@ -1,4 +1,4 @@
-# FastAPI + Wasmer
+# FastAPI + Wasmer (MOD req counter)
 
 This example shows how to run a minimal **FastAPI** app on **Wasmer Edge**.
 
