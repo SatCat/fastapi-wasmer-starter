@@ -1,5 +1,5 @@
 [project]
-name = "fastapi-wasmer-starter"
+name = "fastapi-wasmer-satcat"
 version = "0.1.1"
 description = "Add request counter"
 readme = "README.md"
